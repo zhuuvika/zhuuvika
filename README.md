@@ -19,13 +19,6 @@
   <li>UI-Kit</li>
   <li>Jest</li>
 </ul>
-<h3>BackEnd:</h3>
-<ul>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>PostgreSql</li>
-  <li>Sequelize ORM</li>
-</ul>
 <h3>Had some experience with:</h3>
 <ul>
   <li>Apollo Client</li>
